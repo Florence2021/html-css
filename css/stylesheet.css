@@ -1,0 +1,44 @@
+ul,ol,li,
+h1,h2,h3,h4,h5,h6,p
+form,input,div{
+    margin: 0;
+    padding: 0;
+}
+li
+ul{
+    color: aqua;
+    float: right;
+    height: 30%;
+    text-align: right;
+}
+body{
+    font-family: Arial,;
+    background-color:purple;
+}
+.header{
+    background-color: black;
+    color: brown;
+    height: 90px;
+    background-size: 100%;
+}
+.header-list{
+    float: left;
+    text-align: right;
+    color: aqua;
+    cursor: pointer;
+}
+.header-list li{
+    float: left;
+    padding: 33px 20px;
+    text-align: right;
+}
+.main{
+    padding: 100px 200px;
+}
+.header-logo{
+    height: 40px;
+    float: left;
+    color: whitesmoke
+
+}
+
